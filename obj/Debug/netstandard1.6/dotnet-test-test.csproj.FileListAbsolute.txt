@@ -1,0 +1,6 @@
+C:\code\misc\dotnet-test-test\bin\Debug\netstandard1.6\dotnet-test-test.deps.json
+C:\code\misc\dotnet-test-test\obj\Debug\netstandard1.6\dotnet-test-test.AssemblyInfo.cs
+C:\code\misc\dotnet-test-test\bin\Debug\netstandard1.6\dotnet-test-test.dll
+C:\code\misc\dotnet-test-test\bin\Debug\netstandard1.6\dotnet-test-test.pdb
+C:\code\misc\dotnet-test-test\obj\Debug\netstandard1.6\dotnet-test-test.dll
+C:\code\misc\dotnet-test-test\obj\Debug\netstandard1.6\dotnet-test-test.pdb
